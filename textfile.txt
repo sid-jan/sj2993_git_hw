@@ -1,0 +1,2 @@
+Hello. This is the text file template.
+Branch - master.
